@@ -1,3 +1,7 @@
+## Credit Card Validator (ReactJS) using Luhn Algorithm.
+
+![screenshot](https://github.com/polsumeet3666/react-creditcard-validator/blob/master/src/working.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
